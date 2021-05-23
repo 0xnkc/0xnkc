@@ -9,9 +9,6 @@
 <a href="https://linkedin.com/in/nikhilkc">
   <img align="left" alt="Nikhil's Linkdein" width="42px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
-<a href="https://github.com/nikhilkc96">
-  <img align="left" alt="Nikhil's Github" width="42px" src="https://img.icons8.com/fluent/48/000000/github.png" />
-</a>
 <a href="https://t.me/nikhilkc">
   <img align="left" alt="Nikhil's Telegram" width="42px" src="https://img.icons8.com/fluent/48/000000/telegram-app--v5.png" />
 </a>
