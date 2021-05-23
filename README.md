@@ -36,5 +36,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact:  I spend almost 12 hours in front of screen everyday.
 
-Show some ❤️ by staring some of my repositories!
 
+<a href="https://github.com/nikhilkc96">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilkc96&show_icons=true&theme=light&line_height=27" alt="Nikhil's Github stats"/>
+</a>
+
+<a href="https://github.com/nikhilkc96">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkc96&theme=light&hide_langs_below=1" />
+</a>
+
+<div align="center">
+Show some ❤️ by staring some of my repositories!
+</div>
