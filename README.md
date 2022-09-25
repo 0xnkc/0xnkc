@@ -26,7 +26,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Octalabz](https://octalabz.com)
-- 🌱 I’m currently learning Network Security, Service Management, HoneyPots.
+- 🌱 I’m currently learning Network Security, HoneyPots, Pentesting.
 - 👯 I’m looking to collaborate on [Octalabz](https://octalabz.com)
 - 💬 Ask me about CyberSecurity or any tech related stuff.
 - 📫 How to reach me: [Telegram](https://t.me/nikhilkc)
