@@ -26,12 +26,12 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Octalabz](https://octalabz.com)
-- 🌱 I’m currently learning Network Security, HoneyPots, Pentesting.
+- 🌱 I’m currently learning HoneyPots, Pentesting.
 - 👯 I’m looking to collaborate on [Octalabz](https://octalabz.com)
 - 💬 Ask me about CyberSecurity or any tech related stuff.
 - 📫 How to reach me: [Telegram](https://t.me/nikhilkc)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact:  I spend almost 12 hours in front of screen everyday.
+- ⚡ Fun fact:  I spend almost 10 hours in front of screen everyday.
 
 
 <a href="https://github.com/nikhilkc96">
