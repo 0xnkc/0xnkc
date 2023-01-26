@@ -1,4 +1,4 @@
-[![MasterHead](https://pbs.twimg.com/profile_banners/2748542778/1674083969/1500x500)]
+[![MasterHead](https://pbs.twimg.com/profile_banners/2748542778/1674083969/1500x500)](https://www.octalabz.com/~nikhil/)
 ### Hello. ನಮಸ್ಕಾರ. నమస్తే. नमस्ते.  I am 👋 Nikhil K C
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkc96&label=Views&color=blue&style=plastic" alt="nikhilkc96" /> </p>
