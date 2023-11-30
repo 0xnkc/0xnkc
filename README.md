@@ -22,21 +22,20 @@
 </br>
 </br>
 
-### I am a Developer, Entrepreneur, Designer, CyberSecurity Student at Unipd.
+### I am a Developer, Entrepreneur, Designer, and CyberSecurity Student at Unipd.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Octalabz](https://octalabz.com)
 - 🌱 I’m currently learning HoneyPots, Pentesting.
 - 👯 I’m looking to collaborate on [Octalabz](https://octalabz.com)
-- 💬 Ask me about CyberSecurity or any tech related stuff.
+- 💬 Ask me about CyberSecurity or any tech-related stuff.
 - 📫 How to reach me: [Telegram](https://t.me/nikhilkc)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact:  I spend almost 10 hours in front of screen everyday.
+- ⚡ Fun fact:  I spend almost 10 hours in front of a screen every day.
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nikhilkc96&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilkc96&" alt="Nikhil K C" />
+  <img src="https://myreadme.vercel.app/api/embed/0xnkc?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
 
 <div align="center">
